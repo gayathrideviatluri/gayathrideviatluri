@@ -1,11 +1,10 @@
 # Hi there, I'm Gayathri Devi Atluri! 👋
 
 ## About Me
+- Software Engineer with 2+ years of experience, seeking full-time software development roles.
 - 👀 I’m interested in software engineering, machine learning, and data analysis.
 - 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
-- 💞️ I'm eager to work as a software engineer specializing in data science and AI.
 - 📫 How to reach me: [gayathridevi.atluri@gmail.com](mailto:gayathridevi.atluri@gmail.com)
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm passionate about immersing myself in fiction novels, getting lost in movies, trying out new recipes in the kitchen, and exploring my creativity through writing, even though I'm just starting out!
 
 ## Skills
