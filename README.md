@@ -1,4 +1,4 @@
-# Hi there, I'm Gayathri Devi Atluri! 👋
+# Hi, I'm Gayathri Devi Atluri! 👋
 
 ## About Me
 - Software Engineer with 2+ years of experience, seeking full-time software development roles.
