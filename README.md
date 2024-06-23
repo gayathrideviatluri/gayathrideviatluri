@@ -9,13 +9,12 @@
 
 ## Skills
 - **Programming Languages:** Python, Java, C, SQL
-- **Data Visualization:** Tableau, Excel, Matplotlib, Seaborn
-- **Databases:** MySQL, MariaDB, MongoDB
-- **Machine Learning:** Scikit-learn, TensorFlow, PyTorch
-- **Cloud Technologies:** AWS (EC2, S3, RDS, DynamoDB)
-- **DevOps/CI/CD:** Git, Docker
-- **Web Development:** HTML, CSS, React.js
-- **Software Development:** Data Structures, Object-Oriented Programming, Software Development Life Cycle (SDLC)
+- **Tools/Frameworks/Libraries:** Tableau, Excel, Matplotlib, pandas, Seaborn, Scikit-learn, Django, Flask
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud Technologies:** AWS (EC2, S3, RDS)
+- **DevOps/CI/CD:** Git, Docker, Jenkins
+- **Web Development:** HTML, CSS, JavaScript
+- **Software Development:** Agile, SCRUM, Data Structures, Object-Oriented Programming, System Design, Testing, Code Review, Software Development Life Cycle (SDLC)
 
 ## Projects
 - **[Automatic Descriptive Answer Sheet Correction](https://github.com/gayathrideviatluri/AutoCorrect-AI-Enhanced-Descriptive-Answer-Evaluation-):** Improved accuracy of automatic descriptive answer evaluation by 30% using ML and NLP techniques.
