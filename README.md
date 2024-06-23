@@ -20,7 +20,7 @@
 ## Projects
 - **[Automatic Descriptive Answer Sheet Correction](https://github.com/gayathrideviatluri/AutoCorrect-AI-Enhanced-Descriptive-Answer-Evaluation-):** Improved accuracy of automatic descriptive answer evaluation by 30% using ML and NLP techniques.
 - **[Sensor-Based Predictive Plant Watering System](https://github.com/gayathrideviatluri/Sensor-Based-Predictive-Plant-Watering-System):** Achieved 30% increase in irrigation efficiency and 25% reduction in water consumption using ML techniques.
-- **[Analysis of Customer Reviews Using Big Data]:** Built a sentiment analysis platform with 92% accuracy, identifying major product pain points.
+- **[Sentiment Analysis of Film Reviews](https://github.com/gayathrideviatluri/Sentiment-Analysis-of-Film-Reviews)** Developed a machine learning model using NLP and Random Forest to perform sentiment analysis on movie reviews, categorizing them into five sentiment levels: Very Bad, Bad, Neutral, Good, and Very Good.
 
 ## How to Reach Me
 - **Email:** [gayathridevi.atluri@gmail.com](mailto:gayathridevi.atluri@gmail.com)
