@@ -9,11 +9,12 @@
 
 ## Skills
 - **Programming Languages:** Python, Java, C, SQL
-- **Tools/Frameworks/Libraries:** Tableau, Excel, Matplotlib, pandas, Seaborn, Scikit-learn, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Web Development:** HTML, CSS, JavaScript, RESTful APIs
+- **Frameworks:** Django, Flask, React, Express, Node.js, Spring Boot
+- **Machine Learning/AI:** Matplotlib, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, NLTK, Regression, PyTorch, BigML, SciPy, Seaborn
+- **Databases:** MySQL, PostgreSQL, MongoDB, NoSQl, DynamoDB
 - **Cloud Technologies:** AWS (EC2, S3, RDS)
-- **DevOps/CI/CD:** Git, Docker, Jenkins
-- **Web Development:** HTML, CSS, JavaScript
+- **Version Control/Containerization tools:** Docker, Git, Kubernetes, CI/CD pipelines
 - **Software Development:** Agile, SCRUM, Data Structures, Object-Oriented Programming, System Design, Testing, Code Review, Software Development Life Cycle (SDLC)
 
 ## Projects
@@ -23,7 +24,7 @@
 
 ## How to Reach Me
 - **Email:** [gayathridevi.atluri@gmail.com](mailto:gayathridevi.atluri@gmail.com)
-- **LinkedIn:** [linkedin.com/in/gayathrideviatluri](https://www.linkedin.com/in/gayathri-devi-atluri-587776149/)
+- **LinkedIn:** [linkedin.com/in/gayathrideviatluri](https://www.linkedin.com/in/gayathri-devi-atluri/)
 
 <!---
 gayathrideviatluri/gayathrideviatluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
