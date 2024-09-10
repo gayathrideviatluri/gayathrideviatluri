@@ -1,30 +1,31 @@
 # Hi, I'm Gayathri Devi Atluri! 👋
 
 ## About Me
-- Software Engineer with 2+ years of experience, seeking full-time software development roles.
-- 👀 I’m interested in software engineering, machine learning, and data analysis.
-- 🌱 I’m currently learning advanced machine learning techniques and cloud computing.
+- Recent Master's graduate in Computer Science from Kent State University, with nearly 2 years of IT experience, specializing in data engineering and data analysis.
+- 👀 I’m interested in data engineering, data analysis, and software development, with a passion for leveraging data to drive decision-making.
+- 🌱 I’m currently enhancing my skills in advanced data engineering techniques, cloud computing (specifically on Microsoft Azure), and learning about generative artificial intelligence and machine learning techniques.
 - 📫 How to reach me: [gayathridevi.atluri@gmail.com](mailto:gayathridevi.atluri@gmail.com)
-- ⚡ Fun fact: I'm passionate about immersing myself in fiction novels, getting lost in movies, trying out new recipes in the kitchen, and exploring my creativity through writing, even though I'm just starting out!
+- ⚡ Fun fact: I love getting lost in fiction novels, exploring new recipes, and expressing creativity through writing.
 
 ## Skills
-- **Programming Languages:** Python, Java, C, SQL
-- **Web Development:** HTML, CSS, JavaScript, RESTful APIs
-- **Frameworks:** Django, Flask, React, Express, Node.js, Spring Boot
-- **Machine Learning/AI:** Matplotlib, NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, Keras, NLTK, Regression, PyTorch, BigML, SciPy, Seaborn
-- **Databases:** MySQL, PostgreSQL, MongoDB, NoSQl, DynamoDB
-- **Cloud Technologies:** AWS (EC2, S3, RDS)
-- **Version Control/Containerization tools:** Docker, Git, Kubernetes, CI/CD pipelines
-- **Software Development:** Agile, SCRUM, Data Structures, Object-Oriented Programming, System Design, Testing, Code Review, Software Development Life Cycle (SDLC)
+- **Programming Languages:** Python, SQL
+- **Data Processing and ETL:** Apache Kafka, Azure Data Factory, Apache Spark, Airflow
+- **Visualization Tools:** Tableau, Power BI, Excel
+- **Libraries and Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, NLTK, SciPy, Django
+- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
+- **Cloud Technologies:** Microsoft Azure (Azure Synapse Analytics, Azure Databricks, Azure Data Lake Storage)
+- **Other Skills:** Exploratory Data Analysis (EDA), Predictive Modeling, Data Pipeline Design, Agile/Scrum methodologies, Data Ethics and Privacy
 
 ## Projects
-- **[Automatic Descriptive Answer Sheet Correction](https://github.com/gayathrideviatluri/AutoCorrect-AI-Enhanced-Descriptive-Answer-Evaluation-):** Improved accuracy of automatic descriptive answer evaluation by 30% using ML and NLP techniques.
-- **[Sensor-Based Predictive Plant Watering System](https://github.com/gayathrideviatluri/Sensor-Based-Predictive-Plant-Watering-System):** Achieved 30% increase in irrigation efficiency and 25% reduction in water consumption using ML techniques.
-- **[Sentiment Analysis of Film Reviews](https://github.com/gayathrideviatluri/Sentiment-Analysis-of-Film-Reviews):** Developed a machine learning model using NLP and Random Forest to perform sentiment analysis on movie reviews, categorizing them into five sentiment levels: Very Bad, Bad, Neutral, Good, and Very Good.
+- **[Automatic Descriptive Answer Sheet Correction](https://github.com/gayathrideviatluri/AutoCorrect-AI-Enhanced-Descriptive-Answer-Evaluation-):** Developed a web application using Django and NLP to automate descriptive answer evaluation, enhancing grading efficiency by 30%.
+- **[Sensor-Based Predictive Plant Watering System](https://github.com/gayathrideviatluri/Sensor-Based-Predictive-Plant-Watering-System):** Increased irrigation efficiency by 30% and reduced water consumption by 25% through ML techniques.
+- **[Sentiment Analysis of Film Reviews](https://github.com/gayathrideviatluri/Sentiment-Analysis-of-Film-Reviews):** Built a machine learning model for sentiment analysis on movie reviews using NLP and Random Forest.
+- **[Health Conditions Analysis Among Children](https://github.com/gayathrideviatluri/Health-Conditions-Analysis):** Created a Power BI dashboard visualizing health data trends and disparities among children under 18, incorporating multiple demographic and time-based metrics.
 
 ## How to Reach Me
 - **Email:** [gayathridevi.atluri@gmail.com](mailto:gayathridevi.atluri@gmail.com)
 - **LinkedIn:** [linkedin.com/in/gayathrideviatluri](https://www.linkedin.com/in/gayathri-devi-atluri/)
+- **GitHub:** [github.com/gayathrideviatluri](https://github.com/gayathrideviatluri)
 
 <!---
 gayathrideviatluri/gayathrideviatluri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
