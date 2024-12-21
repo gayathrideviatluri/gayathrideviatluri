@@ -6,16 +6,7 @@
 - 🌱 I’m currently enhancing my skills in advanced data engineering techniques, cloud computing (specifically on Microsoft Azure), and learning about generative artificial intelligence and machine learning techniques.
 - 📫 How to reach me: [gayathridevi.atluri@gmail.com](mailto:gayathridevi.atluri@gmail.com)
 - ⚡ Fun fact: I love getting lost in fiction novels, exploring new recipes, and expressing creativity through writing.
-
-## Skills
-- **Programming Languages:** Python, SQL
-- **Data Processing and ETL:** Apache Kafka, Azure Data Factory, Apache Spark, Airflow
-- **Visualization Tools:** Tableau, Power BI, Excel
-- **Libraries and Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, NLTK, SciPy, Django
-- **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB)
-- **Cloud Technologies:** Microsoft Azure (Azure Synapse Analytics, Azure Databricks, Azure Data Lake Storage)
-- **Other Skills:** Exploratory Data Analysis (EDA), Predictive Modeling, Data Pipeline Design, Agile/Scrum methodologies, Data Ethics and Privacy
-
+- Read at your own risk: **PoetrySoup(https://www.poetrysoup.com/me/gayathriatluri)**
 ## Projects
 - **[Automatic Descriptive Answer Sheet Correction](https://github.com/gayathrideviatluri/AutoCorrect-AI-Enhanced-Descriptive-Answer-Evaluation-):** Developed a web application using Django and NLP to automate descriptive answer evaluation, enhancing grading efficiency by 30%.
 - **[Sensor-Based Predictive Plant Watering System](https://github.com/gayathrideviatluri/Sensor-Based-Predictive-Plant-Watering-System):** Increased irrigation efficiency by 30% and reduced water consumption by 25% through ML techniques.
